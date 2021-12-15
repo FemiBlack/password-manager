@@ -30,7 +30,7 @@ These are features I'm working on it:
 - [ ] Setting: backup/restore data into secret Gist.
 
 ## Note!
-In current version, I made a simple "crypto" method to convert characters into new character, using passphrase as "key". This is definitely not a proper way to store sensitive data so consider to use this app at your own risk.
+**In current version, I made a simple "crypto" method to convert characters into new character, using passphrase as "key". This is definitely not a proper way to store sensitive data so consider to use this app at your own risk.**
 
 ## Build Setup
 If you want to join development, clone this git, then in the root folder of project, run:
